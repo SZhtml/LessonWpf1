@@ -21,7 +21,7 @@ namespace WpfApp1
     public partial class MainWindow : Window
     {
         bool Tern = true;
-        int count = 0;
+        int count = 1;
         string[,] mat= new string[3,3];
         public MainWindow()
         {
